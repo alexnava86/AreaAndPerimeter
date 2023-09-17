@@ -1,0 +1,19 @@
+C:\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe.config
+C:\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csprojResolveAssemblyReference.cache
+C:\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.AreaAndPerimeter.resources
+C:\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Properties.Resources.resources
+C:\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.Cache
+C:\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe
+C:\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.pdb
+C:\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.exe
+C:\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.pdb
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe.config
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.pdb
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csprojAssemblyReference.cache
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.AreaAndPerimeter.resources
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Properties.Resources.resources
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.cache
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.exe
+C:\Users\Nava\Documents\Projects\C#\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.pdb
